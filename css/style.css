@@ -1,0 +1,6 @@
+.tengah .owl-nav .owl-prev .owl-nav-prev,
+.tengah .owl-nav .owl-next .owl-nav-next{
+    color: brown;
+    background: transparent;
+    font-size: 2rem;
+}
